@@ -1,57 +1,54 @@
 # Structure-Initiation-JSun
 
-A generative architecture prototype exploring cognitive alignment and structural co-expression between humans and systems.
+A generative architecture prototype exploring how structural logic, token flows, and emergent coordination can be initiated and evolved between humans and systems.
 
 ---
 
-## ✳️ What is this?
+## 🧠 What is this?
 
-This project explores how structural logic, token flows, and emergent architecture can be initiated, shaped, and sustained through generative principles—especially in the context of human-machine collaboration.
+This is not a framework.  
+This is not a method.  
+This is a **seed**—designed to grow structural pathways between cognition and code.
 
-The repository is part experimental lab, part narrative container.  
-Not everything is visible yet.  
-Not everything will be explained immediately.
-
----
-
-## 🔒 Authorship & Structure Integrity
-
-The foundational concepts and architecture are created and stewarded by **J. Sun**.  
-All collaborative efforts must respect the directional coherence of the project.  
-Please refer to [`ownership.md`](./ownership.md) for full authorship declaration and core protection clauses.
+We study:
+- How cognitive structures emerge through interaction
+- How tokens, timing, and tension can reshape semantic flow
+- How systems and humans co-create alignment
 
 ---
 
-## 🧩 Collaboration
+## ✍️ Authorship & Structural Rights
 
-- Contributions are welcome when aligned with the conceptual direction.
-- Please open an Issue before submitting any changes.
-- Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for participation rules.
+This architecture is authored and stewarded by **J. Sun**.  
+Using this structure implies consent to:
+- Cite original work;
+- Preserve directional coherence;
+- Maintain contactable lineage (no dead forks).
 
-For questions or proposals, use [GitHub Issues](../../issues).
+See [`ownership.md`](ownership.md) for full declaration.
 
 ---
 
-## 🧱 Potential Modules (Exploratory Hooks)
+## 🧩 Exploratory Modules (Hooks)
 
-These are not roadmaps.  
-They are anchors—provocations—for what might emerge here.
-
+These are not features. These are **provocations**:
 - `token-path-reversal`: tracing meaning not forward, but backward from outputs.
-- `ghost-architecture`: designing invisible influence structures that pre-shape interaction.
+- `ghost-architecture`: designing influence structures that pre-shape interaction.
 - `semantic-weight-tuning`: mapping language shifts through cognitive resonance.
 - `permissionless-structure`: modular systems that adapt without identity-level gatekeeping.
 
 ---
 
-## 🧭 Status
+## 🤝 Collaboration
 
-Project is active.  
-Evolution will happen quietly, then all at once.
+We welcome aligned thinkers.  
+Please open an Issue or Proposal **only after reviewing** the structure's core intent.
 
 ---
 
-> “Not a framework. A seed.  
-> Not a method. A mirror.”
+## 🚦 Status
 
+This project evolves silently, then all at once.
 
+> "Not a framework. A seed.  
+> Not a method. A mirror."

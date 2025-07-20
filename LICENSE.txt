@@ -1,0 +1,14 @@
+MIT License (Modified for Structural Usage Integrity)
+
+Copyright (c) 2025 J. Sun
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software under the following conditions:
+
+1. Attribution Required: Any use must clearly attribute the original author J. Sun.
+2. Structural Linkage: Derivative projects must maintain structural linkage (forking or citation).
+3. No Identity Hijacking: You may not impersonate the project’s origin or original structure.
+4. No Gatekeeping Extensions: All forks/extensions must remain open for structural feedback.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
